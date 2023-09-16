@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(233, 210, 255, 0.486);
+}
+
+h1 {
+  font-family: "Oooh Baby", cursive;
+}
+
+h2,
+h3,
+h4,
+p,
+li,
+button {
+  font-family: "Nunito", sans-serif;
+}
